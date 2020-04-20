@@ -1,12 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.0.0-2</version>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
-	</changes>
-	<changes>
-		<version>1.0.0-1</version>
-		<change>Initial Release</change>
-	</changes>
+		<version>10.1</version>
+		<change>God Mode, One Hit, Gold Coins, Tech Coins, No Skill Cooldown, Auto Win</change>
+ 	</changes>
 </changelog>

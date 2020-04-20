@@ -1,21 +1,20 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
+	<id>com.battousai.spacejusticemenu</id>
 	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<version>10.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>9.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>Cydia Substrate, PreferenceLoader</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>This is tweak for Space Justice with great features</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
+		<description>This Cheat costs $8 per update use the donate button on page then i will allow access.</description>
+ 		<description><![CDATA[
+		You can also have<br/>
 		a multi-line item.
 		]]>
 		</description>
@@ -24,17 +23,15 @@
 		<screenshot>
 			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>cydia.jpg</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
 			<description>This is a description for screenshot 2. It's another Cydia!</description>
 			<image>cydia.jpg</image>
-		</screenshot>		
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
-	</changelog>
+ 		<change>God Mode, One Hit, Gold Coins, Tech Coins, No Skill Cooldown, Auto Win</change>
+ 	</changelog>
 	<links>
 		<link>
 			<name>/r/jailbreak</name>
