@@ -5,9 +5,9 @@ Maintainer: XxBattousayxX <xxbattousaixx0508@gmail.com>
 Depends: Cydia Substrate, PreferenceLoader
 Architecture: iphoneos-arm
 Filename: ./debs/com.battousai.spacejusticemenu_10.1_iphoneos-arm.deb
-Size: 854
+Size: 550120
 MD5sum: ce4bc5b5cdb86d629296a1e4aa41632a
 Description: SpaceJustice Cheat for iOS64bit
 Name: New Package
 Author: XxBattousayxX <xxbattousaixx0508@gmail.com>
-Depiction: https://XxBattousayxX.github.io/funtweaks/depictions/?p=com.battousai.spacejusticemenu
+Depiction: https://XxBattousayxX.github.io/funtweaks/depictions/spacejusticemenu
