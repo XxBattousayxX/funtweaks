@@ -1,7 +1,7 @@
 <package>
-	<id>com.battousai.spacejusticemenu</id>
-	<name>spacejusticemenu</name>
-	<version>10.1</version>
+	<id>com.battousai.spacejusticemenukey</id>
+	<name>spacejusticemenukey</name>
+	<version>11.1.6802</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -12,7 +12,7 @@
 	</dependencies>
 	<shortDescription>This is tweak for Space Justice with great features</shortDescription>
 	<descriptionlist>
-		<description>This Cheat costs $8 per update use the donate button on page then i will allow access.</description>
+		<description>contact me at xxbattousaixx0508@gmail.com for more info.</description>
  		<description><![CDATA[
 		You can also have<br/>
 		a multi-line item.
@@ -24,11 +24,6 @@
 			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>cydia.jpg</image>
 		</screenshot>
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>
-	</screenshots>
 	<changelog>
  		<change>God Mode, One Hit, Gold Coins, Tech Coins, No Skill Cooldown, Auto Win</change>
  	</changelog>
